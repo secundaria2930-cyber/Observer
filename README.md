@@ -28,14 +28,20 @@ Não está no PyPI.
 Não tem setup.  
 Não tem versão.
 
-Copie o arquivo `observer.py` e coloque no seu projeto.  
-Ou não coloque. Dá no mesmo.
+Para usar, **copie a pasta `observer` inteira** para dentro do seu projeto.
+
+Exemplo:
 
 ```
-observer/
- ├── observer.py
- └── main.py (opcional e igualmente inútil)
+meu_projeto/
+ ├── observer/
+ │   ├── __init__.py
+ │   └── observer.py
+ └── main.py
 ```
+
+Depois disso, já funciona.  
+Sem instalação. Sem configuração. Sem sentido.
 
 ---
 
