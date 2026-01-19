@@ -2,7 +2,7 @@
 
 Uma lib completamente inútil com o objetivo de observar.
 
-Criada **de propósito** para o ** Evento | Bibliotecas Inúteis**.  
+Criada **de propósito** para o **✨ Evento – Bibliotecas Inúteis**.  
 Ela observa valores, percorre estruturas e **não faz absolutamente nada com isso**.
 
 ---
@@ -39,7 +39,7 @@ observer/
 
 ---
 
-## 🚀 Uso
+## 📖 Uso
 
 ### Observação simples
 
